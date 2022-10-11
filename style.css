@@ -1,0 +1,33 @@
+.body{
+    background-color:whitesmoke;
+    float:left;
+    width:700px;
+    margin: 100;
+    border: coral;
+    align-content: center;
+    display: flex;
+}
+.radiobut 
+{
+    margin-left: 50px;
+}
+
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 16px;
+} 
+
+
+
+.checked {
+    color: lightgray;
+  }
